@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Pak Rega",
+      "nik": "8373478027",
+      "gender": "Laki Laki",
+      "jabatan": "Walikelas"
+    },
+    {
+      "id": 2,
+      "nama": "Bu Nia",
+      "nik": "8754878473",
+      "gender": "Perempuan",
+      "jabatan": "Walikelas"
+    },
+    {
+      "id": 3,
+      "nama": "Bu Nada",
+      "nik": "87334798477",
+      "gender": "Perempuan",
+      "jabatan": "Walikelas"
+    },
+    {
+      "nama": "Pak Ryan",
+      "nik": "8923773677637",
+      "gender": "Laki Laki",
+      "jabatan": "Walikelas",
+      "id": 4
+    },
+    {
+      "nama": "Bu Ca",
+      "nik": "327217862677",
+      "gender": "Perempuan",
+      "jabatan": "Sekretaris",
+      "id": 5
+    },
+    {
+      "nama": "Bu Putri",
+      "nik": "88765545676",
+      "gender": "Perempuan",
+      "jabatan": "Bendahara 2",
+      "id": 6
+    }
+  ]
+}
